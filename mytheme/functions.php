@@ -12,7 +12,6 @@
  
 //Needed for the_post_thumbnail(); function
 //and set feature image for this theme
-//https://www.wpbeginner.com/beginners-guide/how-to-add-featured-image-or-post-thumbnails-in-wordpress/
 add_theme_support( 'post-thumbnails' );
 set_post_thumbnail_size( 500, 500);
 ?>
