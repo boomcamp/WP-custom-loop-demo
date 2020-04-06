@@ -1,1 +1,1 @@
-Download and paste `mytheme` into your `wp-content/themes/` then activate.
+Clone and paste `mytheme` into your `wp-content/themes/` then activate.
